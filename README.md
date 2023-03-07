@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @louis-marx
-- 👀 I’m interested in data science and web development
-- 🌱 I’m currently learning how to use git and github
+- 👀 I’m interested in data science and artificial intelligence
 - 📫 Reach me via LinkedIn (https://www.linkedin.com/in/louis-marx/) or direclty via email (louis.marx@mailo.com)
 
 
